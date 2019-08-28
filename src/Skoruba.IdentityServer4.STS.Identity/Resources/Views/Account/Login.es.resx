@@ -117,10 +117,43 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="ConfirmMessage" xml:space="preserve">
-    <value>Gracias por confirmar su correo.</value>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancelar</value>
+  </data>
+  <data name="Email" xml:space="preserve">
+    <value>Correo</value>
+  </data>
+  <data name="ExternalLogin" xml:space="preserve">
+    <value>Inicio de sesión externo</value>
+  </data>
+  <data name="Forgot" xml:space="preserve">
+    <value>Olvidé mi contraseña</value>
+  </data>
+  <data name="InvalidRequest" xml:space="preserve">
+    <value>Solicitud de inicio de sesión inválida</value>
+  </data>
+  <data name="LocalLogin" xml:space="preserve">
+    <value>Inicio de sesión local</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Iniciar sesión</value>
+  </data>
+  <data name="NoSchema" xml:space="preserve">
+    <value>No se han configurado esquemas de inicio de sesión para este cliente.</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Contraseña</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Registro</value>
+  </data>
+  <data name="Remember" xml:space="preserve">
+    <value>Recordarme</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Confirmación de correo</value>
+    <value>Inicio de sesión</value>
+  </data>
+  <data name="Username" xml:space="preserve">
+    <value>Usuario</value>
   </data>
 </root>
