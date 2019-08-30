@@ -117,25 +117,40 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Code" xml:space="preserve">
-    <value>Código de autenticación</value>
+  <data name="2FA" xml:space="preserve">
+    <value>Autenticación con dos factores (2FA)</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>Tu cuenta está protegida con una aplicación de autenticación. Escribe abajo tu código de autenticación.</value>
+  <data name="ChangePassword" xml:space="preserve">
+    <value>Cambiar contraseña</value>
   </data>
-  <data name="LogIn" xml:space="preserve">
+  <data name="Discovery" xml:space="preserve">
+    <value>Documento de descubrimiento</value>
+  </data>
+  <data name="Grants" xml:space="preserve">
+    <value>Permisos guardados</value>
+  </data>
+  <data name="LinkSamples" xml:space="preserve">
+    <value>ejemplos listos para usar</value>
+  </data>
+  <data name="LinkSource" xml:space="preserve">
+    <value>repositorio de código fuente</value>
+  </data>
+  <data name="LinkTitle" xml:space="preserve">
+    <value>Aquí hay unos links a</value>
+  </data>
+  <data name="Login" xml:space="preserve">
     <value>Iniciar sesión</value>
   </data>
-  <data name="LoginWithRecoveryCode" xml:space="preserve">
-    <value>Iniciar sesión con un código de recuperación</value>
+  <data name="ManagePersonalData" xml:space="preserve">
+    <value>Mis datos personales</value>
   </data>
-  <data name="NoAuthenticatorDevice" xml:space="preserve">
-    <value>¿No tiene acceso a tu dispositivo de autenticación? Puedes</value>
+  <data name="ManageProfile" xml:space="preserve">
+    <value>Mi perfil</value>
   </data>
-  <data name="Remember" xml:space="preserve">
-    <value>Recordarme en este equipo</value>
+  <data name="SubTitle" xml:space="preserve">
+    <value>Bienvenido a Skoruba IdentityServer4</value>
   </data>
   <data name="Title" xml:space="preserve">
-    <value>Autenticación con un segundo factor</value>
+    <value>Skoruba IdentityServer4</value>
   </data>
 </root>

@@ -117,25 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Code" xml:space="preserve">
-    <value>Código de autenticación</value>
+  <data name="Success" xml:space="preserve">
+    <value>Éxito</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>Tu cuenta está protegida con una aplicación de autenticación. Escribe abajo tu código de autenticación.</value>
-  </data>
-  <data name="LogIn" xml:space="preserve">
-    <value>Iniciar sesión</value>
-  </data>
-  <data name="LoginWithRecoveryCode" xml:space="preserve">
-    <value>Iniciar sesión con un código de recuperación</value>
-  </data>
-  <data name="NoAuthenticatorDevice" xml:space="preserve">
-    <value>¿No tiene acceso a tu dispositivo de autenticación? Puedes</value>
-  </data>
-  <data name="Remember" xml:space="preserve">
-    <value>Recordarme en este equipo</value>
-  </data>
-  <data name="Title" xml:space="preserve">
-    <value>Autenticación con un segundo factor</value>
+  <data name="SuccessMessage" xml:space="preserve">
+    <value>Has autorizado el dispotivo con éxito</value>
   </data>
 </root>

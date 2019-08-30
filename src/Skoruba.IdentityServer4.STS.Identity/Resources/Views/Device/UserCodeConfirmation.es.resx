@@ -117,25 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Code" xml:space="preserve">
-    <value>Código de autenticación</value>
+  <data name="ApplicationAccess" xml:space="preserve">
+    <value>Accesos de Aplicación</value>
   </data>
-  <data name="Info" xml:space="preserve">
-    <value>Tu cuenta está protegida con una aplicación de autenticación. Escribe abajo tu código de autenticación.</value>
+  <data name="ConfirmCode" xml:space="preserve">
+    <value>Por favor, confirma que la solicitud de autorización tiene el código:</value>
   </data>
-  <data name="LogIn" xml:space="preserve">
-    <value>Iniciar sesión</value>
+  <data name="No" xml:space="preserve">
+    <value>No, no permitir</value>
   </data>
-  <data name="LoginWithRecoveryCode" xml:space="preserve">
-    <value>Iniciar sesión con un código de recuperación</value>
-  </data>
-  <data name="NoAuthenticatorDevice" xml:space="preserve">
-    <value>¿No tiene acceso a tu dispositivo de autenticación? Puedes</value>
+  <data name="PersonalInformation" xml:space="preserve">
+    <value>Información personal</value>
   </data>
   <data name="Remember" xml:space="preserve">
-    <value>Recordarme en este equipo</value>
+    <value>Recordar mi decisión</value>
   </data>
-  <data name="Title" xml:space="preserve">
-    <value>Autenticación con un segundo factor</value>
+  <data name="SubTitle" xml:space="preserve">
+    <value>solicita tu permiso</value>
+  </data>
+  <data name="UnCheckPermission" xml:space="preserve">
+    <value>Desmarca los permisos que no deseas otorgar.</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Sí, permitir</value>
   </data>
 </root>
